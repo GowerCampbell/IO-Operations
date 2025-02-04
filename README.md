@@ -12,7 +12,7 @@ This repository contains examples and my notes on file handling, encoding, and I
 7. [Best Practices](#best-practices)
 8. [Class Knotes](#class-knotes)
 
-## [Encoding Files](Encoding-Files/)
+## [Encoding Files](Encoding-Files/Unencoded-vs-EncodedExamples)
 Explains the difference between unencoded and encoded file handling, with examples using UTF-8 and UTF-8-SIG.
 
 ## [Reading From Files](Reading-From-Files/)
