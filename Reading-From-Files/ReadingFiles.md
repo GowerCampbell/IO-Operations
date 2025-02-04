@@ -117,7 +117,7 @@ else:
 
 ---
 
-## ** Summary & Best Practices**
+## **Summary & Best Practices**
 ✅ **Always use `with open()`** to ensure files close properly.  
 ✅ **Use `for line in file`** for large files to reduce memory usage.  
 ✅ **Specify `encoding="utf-8"`** to avoid character decoding issues.  
